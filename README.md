@@ -1,4 +1,4 @@
-👋 Hi, I’m Hudeifa Osman. A 21-year-old IT student passionate about app development.
+👋 Hi, I’m Hudeifa Osman. A 21-year-old computer science student passionate about app development.
 
 Check out MuscleGain on the Apple App Store: https://apps.apple.com/us/app/muscle-gain-gym-home-workout/id1536720200
 <!---
